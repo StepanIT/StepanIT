@@ -28,8 +28,8 @@
 ### 📫 Контакты:
 
 - [LinkedIn](https://www.linkedin.com/in/stepan-rudakov-835456310/)
-- Email:   https://19stepan94@mail.ru
-- Telegram: https://t.me/RudakovStepan
+- [Email](https://19stepan94@mail.ru)
+- [Telegram](https://t.me/RudakovStepan)
 
 ---
 
