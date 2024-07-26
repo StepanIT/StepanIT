@@ -28,7 +28,7 @@
 ### 📫 Контакты:
 
 - [LinkedIn](https://www.linkedin.com/in/stepan-rudakov-835456310/)
-- Email: (mailto:19stepan94@mail.ru)
+- Email: [19stepan94@mail.ru](mailto:19stepan94@mail.ru)
 
 ---
 
