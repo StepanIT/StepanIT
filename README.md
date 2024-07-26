@@ -29,6 +29,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/stepan-rudakov-835456310/)
 - Email:   [19stepan94@mail.ru](mailto:19stepan94@mail.ru)
+- telegram: https://t.me/RudakovStepan
 
 ---
 
